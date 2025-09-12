@@ -1,0 +1,16 @@
+{
+  "prefix": "ng-cmp",
+  "body": [
+    "import { Component } from '@angular/core';",
+    "",
+    "@Component({",
+    "  selector: 'app-${NAME}',",
+    "  templateUrl: './${NAME}.component.html',",
+    "  styleUrls: ['./${NAME}.component.scss']",
+    "})",
+    "export class ${NAME_PASCAL}Component {",
+    "  constructor() {}",
+    "}"
+  ],
+  "description": "Angular Component boilerplate"
+}

@@ -1,0 +1,13 @@
+{
+  "prefix": "ng-svc",
+  "body": [
+    "import { Injectable } from '@angular/core';",
+    "import { HttpClient } from '@angular/common/http';",
+    "",
+    "@Injectable({ providedIn: 'root' })",
+    "export class ${NAME_PASCAL}Service {",
+    "  constructor(private http: HttpClient) {}",
+    "}"
+  ],
+  "description": "Angular Service boilerplate"
+}

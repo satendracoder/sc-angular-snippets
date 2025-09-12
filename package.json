@@ -1,0 +1,12 @@
+{
+  "name": "sc-angular-snippets",
+  "version": "1.1.0",
+  "description": "Angular boilerplate generator (Service, Component, Pipe, Interceptor)",
+  "main": "index.js",
+  "bin": {
+    "ngg": "./index.js"
+  },
+  "keywords": ["angular", "cli", "boilerplate", "snippets"],
+  "author": "Satendra Coder",
+  "license": "MIT"
+}
