@@ -118,8 +118,18 @@ export class UserService {
 
 ## 👨‍💻 Author
 
-**Satendra Coder**  
-🌐 [satendracoder.com](https://satendracoder.com)
+**Satendra Rajput**
+
+## 👨‍💻 Author
+
+**Satendra Coder**
+
+🌐 Website: [satendracoder.com](https://satendracoder.com)  
+💼 LinkedIn: [linkedin.com/in/satendracoder](https://linkedin.com/in/satendracoder)
+📘 Facebook: [facebook.com/satendracoder1](https://facebook.com/satendracoder1)  
+📸 Instagram: [instagram.com/satendracoder1](https://instagram.com/satendracoder1)  
+▶️ YouTube: [youtube.com/@satendracoder](https://youtube.com/@satendracoder)  
+🐦 Twitter/X: [twitter.com/satendracoder](https://twitter.com/satendracoder)
 
 ---
 
