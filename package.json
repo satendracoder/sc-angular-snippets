@@ -1,6 +1,6 @@
 {
   "name": "sc-angular-snippets",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Angular boilerplate generator (Service, Component, Pipe, Interceptor)",
   "main": "index.js",
   "bin": {
