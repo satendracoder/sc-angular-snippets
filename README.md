@@ -18,7 +18,7 @@ Now you can use the `ngg` command anywhere in your Angular projects.
 ### 2. Local Development (for contributors)
 
 ```bash
-git clone https://github.com/your-username/sc-angular-snippets.git
+git clone https://github.com/satendracoder/sc-angular-snippets
 cd sc-angular-snippets
 npm install
 npm link
@@ -40,6 +40,27 @@ ngg <type> <name>
 - `int` → Generate HTTP Interceptor
 - `cmp` → Generate Component
 - `pipe` → Generate Pipe
+- `ng-svc` → Angular Service -`ng-cmp` →Angular Component (with template file) -`ng-cmp-inline` →Angular Component (inline template) -`ng-pipe` →Angular Pipe -`ng-dir` →Angular Directive -`ng-guard` →Angular Route Guard -`ng-mod` →Angular Module -`ng-resolver` →Angular Resolver -`ng-int` →HTTP Interceptor (basic) -`ng-int-auth` →HTTP Interceptor (with JWT token)
+
+# Generate a component
+
+ngg ng-cmp my-component
+
+# Generate a service
+
+ngg ng-svc my-service
+
+# Generate a pipe
+
+ngg ng-pipe my-pipe
+
+# Generate a module
+
+ngg ng-mod shared
+
+# Generate an HTTP interceptor with JWT token
+
+ngg ng-int-auth auth
 
 ---
 
